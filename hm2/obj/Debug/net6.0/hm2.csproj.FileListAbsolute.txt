@@ -1,0 +1,15 @@
+/home/sardor/Documents/lesson9/hm2/bin/Debug/net6.0/hm2
+/home/sardor/Documents/lesson9/hm2/bin/Debug/net6.0/hm2.deps.json
+/home/sardor/Documents/lesson9/hm2/bin/Debug/net6.0/hm2.runtimeconfig.json
+/home/sardor/Documents/lesson9/hm2/bin/Debug/net6.0/hm2.dll
+/home/sardor/Documents/lesson9/hm2/bin/Debug/net6.0/ref/hm2.dll
+/home/sardor/Documents/lesson9/hm2/bin/Debug/net6.0/hm2.pdb
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.csproj.AssemblyReference.cache
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.AssemblyInfoInputs.cache
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.AssemblyInfo.cs
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.csproj.CoreCompileInputs.cache
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.dll
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/ref/hm2.dll
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.pdb
+/home/sardor/Documents/lesson9/hm2/obj/Debug/net6.0/hm2.genruntimeconfig.cache
